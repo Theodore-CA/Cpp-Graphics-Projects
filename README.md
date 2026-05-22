@@ -4,3 +4,4 @@ A collection of graphcis projects I've worked on in C++. It requires some CMake 
 
 ## Ray-Tracer
 A simple ray tracer that has detection for planes and spheres with reflections and shadows. It shoots a ray from a light source and checks if the ray intersects with any sphere index which are provided in the scene construction.
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/760d25a6-70ce-473d-851a-0a1788f435b0" />
